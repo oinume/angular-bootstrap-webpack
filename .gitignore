@@ -1,0 +1,16 @@
+# IntelliJ
+.idea
+/*.iml
+
+# Vagrant
+.vagrant
+
+# Mac
+.DS_Store
+
+# direnv
+.envrc
+
+# Node
+/node_modules
+/dist
